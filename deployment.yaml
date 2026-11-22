@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: zeeshancloud15/springboot-app:21
+          image: zeeshancloud15/springboot-app:23
           ports:
             - containerPort: 80
